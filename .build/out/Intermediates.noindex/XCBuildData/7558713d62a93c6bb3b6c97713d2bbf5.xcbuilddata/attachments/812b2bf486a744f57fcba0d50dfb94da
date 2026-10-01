@@ -1,0 +1,99 @@
+{
+  "" : {
+    "diagnostics" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/PerfectNetworkCallingTests-primary.dia",
+    "emit-module-dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/PerfectNetworkCallingTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/PerfectNetworkCallingTests-primary-emit-module.dia",
+    "pch" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/PerfectNetworkCallingTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/PerfectNetworkCallingTests-primary.swiftdeps"
+  },
+  "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/PerfectNetworkCallingTests/ConcurrencyTests.swift" : {
+    "const-values" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/ConcurrencyTests.swiftconstvalues",
+    "dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/ConcurrencyTests.d",
+    "diagnostics" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/ConcurrencyTests.dia",
+    "index-unit-output-path" : "/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/ConcurrencyTests.o",
+    "llvm-bc" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/ConcurrencyTests.bc",
+    "object" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/ConcurrencyTests.o",
+    "swift-dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/ConcurrencyTests.swiftdeps",
+    "swiftmodule" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/ConcurrencyTests~partial.swiftmodule"
+  },
+  "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/PerfectNetworkCallingTests/EndpointTests.swift" : {
+    "const-values" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/EndpointTests.swiftconstvalues",
+    "dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/EndpointTests.d",
+    "diagnostics" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/EndpointTests.dia",
+    "index-unit-output-path" : "/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/EndpointTests.o",
+    "llvm-bc" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/EndpointTests.bc",
+    "object" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/EndpointTests.o",
+    "swift-dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/EndpointTests.swiftdeps",
+    "swiftmodule" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/EndpointTests~partial.swiftmodule"
+  },
+  "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/PerfectNetworkCallingTests/InterceptorTests.swift" : {
+    "const-values" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/InterceptorTests.swiftconstvalues",
+    "dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/InterceptorTests.d",
+    "diagnostics" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/InterceptorTests.dia",
+    "index-unit-output-path" : "/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/InterceptorTests.o",
+    "llvm-bc" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/InterceptorTests.bc",
+    "object" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/InterceptorTests.o",
+    "swift-dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/InterceptorTests.swiftdeps",
+    "swiftmodule" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/InterceptorTests~partial.swiftmodule"
+  },
+  "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/PerfectNetworkCallingTests/NetworkErrorTests.swift" : {
+    "const-values" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/NetworkErrorTests.swiftconstvalues",
+    "dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/NetworkErrorTests.d",
+    "diagnostics" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/NetworkErrorTests.dia",
+    "index-unit-output-path" : "/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/NetworkErrorTests.o",
+    "llvm-bc" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/NetworkErrorTests.bc",
+    "object" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/NetworkErrorTests.o",
+    "swift-dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/NetworkErrorTests.swiftdeps",
+    "swiftmodule" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/NetworkErrorTests~partial.swiftmodule"
+  },
+  "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/PerfectNetworkCallingTests/RequestTests.swift" : {
+    "const-values" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RequestTests.swiftconstvalues",
+    "dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RequestTests.d",
+    "diagnostics" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RequestTests.dia",
+    "index-unit-output-path" : "/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RequestTests.o",
+    "llvm-bc" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RequestTests.bc",
+    "object" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RequestTests.o",
+    "swift-dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RequestTests.swiftdeps",
+    "swiftmodule" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RequestTests~partial.swiftmodule"
+  },
+  "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/PerfectNetworkCallingTests/RetryPolicyTests.swift" : {
+    "const-values" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RetryPolicyTests.swiftconstvalues",
+    "dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RetryPolicyTests.d",
+    "diagnostics" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RetryPolicyTests.dia",
+    "index-unit-output-path" : "/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RetryPolicyTests.o",
+    "llvm-bc" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RetryPolicyTests.bc",
+    "object" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RetryPolicyTests.o",
+    "swift-dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RetryPolicyTests.swiftdeps",
+    "swiftmodule" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/RetryPolicyTests~partial.swiftmodule"
+  },
+  "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/PerfectNetworkCallingTests/Support/MockURLProtocol.swift" : {
+    "const-values" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/MockURLProtocol.swiftconstvalues",
+    "dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/MockURLProtocol.d",
+    "diagnostics" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/MockURLProtocol.dia",
+    "index-unit-output-path" : "/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/MockURLProtocol.o",
+    "llvm-bc" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/MockURLProtocol.bc",
+    "object" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/MockURLProtocol.o",
+    "swift-dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/MockURLProtocol.swiftdeps",
+    "swiftmodule" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/MockURLProtocol~partial.swiftmodule"
+  },
+  "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/PerfectNetworkCallingTests/Support/TestSupport.swift" : {
+    "const-values" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/TestSupport.swiftconstvalues",
+    "dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/TestSupport.d",
+    "diagnostics" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/TestSupport.dia",
+    "index-unit-output-path" : "/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/TestSupport.o",
+    "llvm-bc" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/TestSupport.bc",
+    "object" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/TestSupport.o",
+    "swift-dependencies" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/TestSupport.swiftdeps",
+    "swiftmodule" : "/Users/faizan.akbar/Documents/Learning/iOS/PerfectNetworkCalling/.build/out/Intermediates.noindex/PerfectNetworkCalling.build/Debug/PerfectNetworkCallingTests-p.build/Objects-normal/arm64/TestSupport~partial.swiftmodule"
+  }
+}
