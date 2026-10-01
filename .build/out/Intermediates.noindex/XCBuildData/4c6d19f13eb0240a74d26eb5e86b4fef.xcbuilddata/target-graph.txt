@@ -1,7 +1,0 @@
-Target dependency graph (3 targets)
-Target 'AllExcludingTests' in project 'Aggregate'
-➜ Explicit dependency on target 'PerfectNetworkCalling-product' in project 'PerfectNetworkCalling'
-➜ Explicit dependency on target 'PerfectNetworkCalling' in project 'PerfectNetworkCalling'
-Target 'PerfectNetworkCalling-product' in project 'PerfectNetworkCalling'
-➜ Explicit dependency on target 'PerfectNetworkCalling' in project 'PerfectNetworkCalling'
-Target 'PerfectNetworkCalling' in project 'PerfectNetworkCalling' (no dependencies)
