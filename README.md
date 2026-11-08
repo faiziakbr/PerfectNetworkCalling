@@ -31,7 +31,7 @@ A modern, generic, type-safe networking framework for Apple platforms built on `
 | Platform / Tool | Minimum Version |
 |---|---|
 | **Swift** | 6.2+ |
-| **Xcode** | 16.0+ |
+| **Xcode** | 26.0+ |
 | **iOS** | 17.0+ |
 | **macOS** | 14.0+ |
 
