@@ -47,7 +47,7 @@ Add `PerfectNetworkCalling` to your package dependencies:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/your-username/PerfectNetworkCalling.git", from: "1.0.0")
+    .package(url: "https://github.com/faiziakbr/PerfectNetworkCalling.git", from: "1.0.0")
 ]
 ```
 
